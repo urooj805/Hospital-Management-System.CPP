@@ -1,31 +1,35 @@
-# Hospital Management System .cpp
+# Hospital Management System (Console-Based)
 
-A C++ based Hospital Management System designed to streamline patient and doctor record management.  
-Developed as part of my Computer Science program at UET Lahore.
+A C++ project to manage hospital operations including patients, doctors, and appointments.  
+This is a **console-based application**, designed to run in the terminal/command line.
+
+## File Structure
+- `src/` : C++ source files
+- `data/` : Text files for patients, doctors, appointments
+- `extras/` : Demo video (optional)
+- `README.md` : Project overview
 
 ## Features
-### Admin
-- Add / update patient records
-- View all patients and appointments
-- Add doctor records
-- Search patient records
+- Add, update, and view patient records
+- Manage doctor information
+- Schedule and track appointments
+- Secure login with credentials
 
-### User (Patient)
-- Register and manage personal details
-- View and update information
-- Check available doctors
-- Book appointments
-- Delete account
+## How to Run
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/urooj805/Hospital-Management-System.CPP.git
+Navigate to the src/ folder
 
-## Technical Highlights
-- Implemented in **C++**
-- Data stored using **file handling** (`patient.txt`, `doctors.txt`, `appointments.txt`)
-- Organized with **parallel arrays**
-- Modular functions for authentication, patient management, and scheduling
+Compile the source files using a C++ compiler:
 
-## Future Improvements
-- Replace file handling with a **database system** for scalability
-- Add a **graphical user interface**
-- Enhance **validation and security** with role-based access
+bash
+g++ H.cpp -o HMS
+Run the program in the console:
 
----
+bash
+./HMS
+Notes
+This project is for academic purposes (semester project).
+
+Executable files (.exe) are not included in the repo — compile locally.
