@@ -1,0 +1,7 @@
+asima,Asima Ashraf,Female,O+,Asthma,03457588636,LHR
+atifa,Atifa Habib,Female,A-,None,03456789345,Gojra
+alia,tayaba,female,o-,She has suffered from chronic diabetes,5432543,LHR
+urooj,uroojj,jlfsn,o-,3,df,wr3
+Alishba,Alishba haq,femlae,A-,ASTHMA,67879,FSD
+urooj,,,,,,
+urooj,,,,,,

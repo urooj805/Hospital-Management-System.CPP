@@ -1,0 +1,12 @@
+1, DR. IJAZ HUSSAIN, Pediatrics
+2, DR. SARAH KHAN, Dermatology
+3, DR. AHMED RAZA, Cardiology
+4, DR. MARIA TARIQ, Neurology
+5, DR. FAISAL MEHMOOD, Orthopedics
+6, DR. NIDA ALI, Gynecology
+7, DR. IMRAN SHAHID, General Surgery
+8, DR. ASMA JAVED, Psychiatry
+9, DR. BILAL ZAFAR, Ophthalmology
+10, DR. SAMINA QURESHI, Endocrinology11,DR. ALI RAZA, Urology
+1,ef,ef
+655,ALI ghafar ,Physiotherapist
